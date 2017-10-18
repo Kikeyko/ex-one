@@ -7,5 +7,5 @@ public class Hai {
 }
 
 class Haii {
-	
+
 }
